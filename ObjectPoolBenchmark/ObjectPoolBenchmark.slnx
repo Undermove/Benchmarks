@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="ObjectPoolBenchmark\ObjectPoolBenchmark.csproj" Type="Classic C#" />
+  <Project Path="PoolsLib\PoolsLib.csproj" Type="Classic C#" />
+  <Project Path="WebApplication\WebApplication.csproj" Type="Classic C#" />
+</Solution>
